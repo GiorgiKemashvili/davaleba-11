@@ -1,0 +1,53 @@
+@media (max-width: 768px) {
+    .content-section {
+        margin-left: 20px; 
+        margin-top: 50px; 
+    }
+
+    .content-section2 {
+        margin-left: 20px; 
+        padding-top: 20px; 
+    }
+
+    .content-section3 {
+        padding: 40px; 
+    }
+
+    .container2 {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap; 
+    }
+
+    .container2 .image2 {
+        width: 100px; 
+        height: 100px; 
+        margin: 10px; 
+    }
+
+    .blocks-container {
+        flex-direction: column; 
+        align-items: center; 
+    }
+
+    .block {
+        width: 80%; 
+        margin-top: 20px; 
+    }
+
+    .block-image {
+        width: 80px; 
+        height: 80px; 
+        margin-bottom: 20px; 
+    }
+
+    .block-title {
+        font-size: 24px; 
+        line-height: 30px; 
+    }
+
+    .block-text {
+        font-size: 14px; 
+        line-height: 24px; 
+    }
+}
